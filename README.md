@@ -22,7 +22,7 @@
 <h2>Веб интерфейс для взаимодействия лампы по сети</h2>
 <img src="https://github.com/DariaTui/RGBLamp/blob/main/result/web.jpg" height="300"/>
 
-[Папка с кодом на HTML, CSS, JS файлы] (https://github.com/DariaTui/RGBLamp/tree/main/data)
+[Папка с кодом на HTML, CSS, JS файлы](https://github.com/DariaTui/RGBLamp/tree/main/data)
 
 ### Результат выполненной работы
 <img src="" height="300"/>
