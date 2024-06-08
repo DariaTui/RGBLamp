@@ -13,12 +13,12 @@
 
 [Код выполненный в Arduino IDE](https://github.com/DariaTui/RGBLamp/blob/main/rabbitRGB_lamp.ino)
 <h2>Схема в симуляторе</h2>
-<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/image.png" height="300"/>
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/simulate_scheme.png" height="300"/>
 <h2>Схема созданная нами</h2>
-<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/photo_2024-06-08_10-33-01.jpg" height="300"/>
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/scheme.jpg" height="300"/>
 <h2>Корпус лампы</h2>
-<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/Group%2012.jpg" height="300"/>
-<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/Group%2011.jpg" height="300"/>
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/box.jpg" height="300"/>
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/box_down.jpg" height="300"/>
 <h2>Веб интерфейс для взаимодействия лампы по сети</h2>
 <img src="https://github.com/DariaTui/RGBLamp/blob/main/result/web.jpg" height="300"/>
 
