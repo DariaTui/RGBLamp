@@ -1,4 +1,4 @@
-# RGBLamp <img src="https://github.com/DariaTui/RGBLamp/blob/main/data/rabbit.png" height="32"/>
+# RGBLamp <img src="https://github.com/DariaTui/RGBLamp/blob/main/data/rabbit.png" height="35"/>
 
 Проект по созданию светильника/ночника с несколькими режимами работы и с возможностью управления как с ручного режима, так и по WIFI.
 <h2>Использованные материалы для создания</h2>
@@ -9,6 +9,15 @@
 4. Кнопка для ручной смены режимов работы
 5. Кнопка для включения/выключения
 6. Провода
-<h2>Схема</h2>
-
-
+<h2>Программа для работы с лампой</h2>
+[Код выполненный в Arduino IDE](https://github.com/DariaTui/RGBLamp/blob/main/rabbitRGB_lamp.ino)
+<h2>Схема в симуляторе</h2>
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/image.png" height="300"/>
+<h2>Схема созданная нами</h2>
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/photo_2024-06-08_10-33-01.jpg" height="300"/>
+<h2>Корпус лампы</h2>
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/Group%2012.jpg" height="300"/>
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/Group%2011.jpg" height="300"/>
+<h2>Веб интерфейс для взаимодействия лампы по сети</h2>
+<img src="https://github.com/DariaTui/RGBLamp/blob/main/result/web.jpg" height="300"/>
+![Папка с кодом на HTML, CSS, JS файлы] (https://github.com/DariaTui/RGBLamp/tree/main/data)
