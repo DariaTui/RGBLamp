@@ -31,3 +31,5 @@
 
 ##### <img src="https://github.com/DariaTui/RGBLamp/blob/main/data/rabbit.png" height="20"/>  Турусина Екатерина 
 ##### <img src="https://github.com/DariaTui/RGBLamp/blob/main/data/rabbit.png" height="20"/> Тютюнькова Дарья 
+
+[Ссылка на демо-видео на YouTube](https://youtu.be/Q4jHd2ZgEUA)
