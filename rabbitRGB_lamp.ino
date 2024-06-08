@@ -5,8 +5,8 @@
 
 ESP8266WebServer HTTP(80);              
 
-String AP       = "BestOFtheBest";      
-String PASSWORD = "321123321";     
+String AP       = "LoginFromWifi";      
+String PASSWORD = "*******";     
 
 String SSDP_Name = "RabbitGB_Lamp";         
 
