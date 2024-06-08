@@ -25,4 +25,9 @@
 [Папка с кодом на HTML, CSS, JS файлы](https://github.com/DariaTui/RGBLamp/tree/main/data)
 
 ### Результат выполненной работы
-<img src="" height="300"/>
+<img src="" height="300"/> 
+
+### Над проектом работали 
+
+##### <img src="https://github.com/DariaTui/RGBLamp/blob/main/data/rabbit.png" height="20"/>  Турусина Екатерина 
+##### <img src="https://github.com/DariaTui/RGBLamp/blob/main/data/rabbit.png" height="20"/> Тютюнькова Дарья 
