@@ -10,6 +10,7 @@
 5. Кнопка для включения/выключения
 6. Провода
 <h2>Программа для работы с лампой</h2>
+
 [Код выполненный в Arduino IDE](https://github.com/DariaTui/RGBLamp/blob/main/rabbitRGB_lamp.ino)
 <h2>Схема в симуляторе</h2>
 <img src="https://github.com/DariaTui/RGBLamp/blob/main/result/image.png" height="300"/>
@@ -20,4 +21,5 @@
 <img src="https://github.com/DariaTui/RGBLamp/blob/main/result/Group%2011.jpg" height="300"/>
 <h2>Веб интерфейс для взаимодействия лампы по сети</h2>
 <img src="https://github.com/DariaTui/RGBLamp/blob/main/result/web.jpg" height="300"/>
-![Папка с кодом на HTML, CSS, JS файлы] (https://github.com/DariaTui/RGBLamp/tree/main/data)
+
+[Папка с кодом на HTML, CSS, JS файлы] (https://github.com/DariaTui/RGBLamp/tree/main/data)
