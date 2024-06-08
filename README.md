@@ -1,2 +1,14 @@
-# RGBLamp
-A project to create a lamp with several modes of operation, as well as with network and manual control.
+# RGBLamp <img src="https://github.com/DariaTui/RGBLamp/blob/main/data/rabbit.png" height="32"/>
+
+Проект по созданию светильника/ночника с несколькими режимами работы и с возможностью управления как с ручного режима, так и по WIFI.
+<h2>Использованные материалы для создания</h2>
+
+1. ESP8266 NodeMCU
+2. Резистор с сопротивлением 10кОМ
+3. RGB светодиод с общим анодом
+4. Кнопка для ручной смены режимов работы
+5. Кнопка для включения/выключения
+6. Провода
+<h2>Схема</h2>
+
+
